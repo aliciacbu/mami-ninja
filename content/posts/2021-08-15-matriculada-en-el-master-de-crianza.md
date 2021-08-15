@@ -4,7 +4,8 @@ date: 2021-08-15
 categories:
   - Reflexiones
 tags:
-  - tag
+  - tacatá
+  - farmacia
 template: post
 banner: ""
 slug: "matriculada-en-el-master-de-crianza"
@@ -12,10 +13,15 @@ slug: "matriculada-en-el-master-de-crianza"
 
 Cuando estaba embarazada no imaginaba la cantidad de cosas sobre bebés que tendría que aprender. Era consciente de la importancia de informarme sobre lactancia, alimentación complementaria, porteo o movimiento libre, pero jamás pensé que sería necesario también aprender sobre odontología y podología infantil, por citar un par de ejemplos.
 
-Mi hija tiene ya 13 meses y me siento como si estuviera cursando permanentemente un máster en crianza. Es inevitable sentirse así, puesto que, desgraciadamente, demasiadas veces las recomendaciones de los profesionales son obsoletas. Puedes encontrar malos consejos tanto en la visita con la matrona, como con la pediatra o el farmacéutico. A modo ilustrativo puedo citar el intento frustrado de comprar en la farmacia la primera pasta de dientes de nuestra hija. Pedimos una pasta  con 1000 ppm de flúor -siguiendo las fantásticas y actualizadas instrucciones de nuestra enfermera-. El farmacéutico quiso saber si era para el bebé y al confirmárselo se empeñó en no vendérnosla (consultándolo con su compañera) por considerar que no era adecuada para una niña tan pequeña, a pesar que las recomendaciones de los odontopediatras son muy claras en este sentido. En las redes sociales esta anécdota es recurrente. 
+![Mujer embarazada con portátil](https://i.imgur.com/JwQkYax.jpg)
 
-Las madres también tenemos que estar alerta en los comercios, puesto que se comercializan todo tipo de artilugios que interfieren con el desarrollo de los bebés y que hasta pueden ser peligrosos. ¿Cómo puede ser, por ejemplo, que se siga permitiendo la venta de tacatás cuando las asociaciones de pediatría desaconsejan firmemente su uso? ¿Por qué encontramos en las tiendas mochilas colgonas para portear hacia delante si sabemos que no son ergonómicas y ningún fisioterapeuta les da el visto bueno?
+Mi hija tiene ya 13 meses y me siento como si estuviera cursando permanentemente un máster en crianza. Es inevitable sentirse así, puesto que, desgraciadamente, demasiadas veces las recomendaciones de los profesionales son obsoletas. Puedes encontrar malos consejos tanto en la visita con la matrona, como con la pediatra o el farmacéutico. A modo ilustrativo puedo citar el intento frustrado de comprar en la farmacia la primera pasta de dientes de nuestra hija. Pedimos una pasta  con 1000 ppm de flúor —siguiendo las fantásticas y actualizadas instrucciones de nuestra enfermera—. El farmacéutico quiso saber si era para el bebé y al confirmárselo se empeñó en no vendérnosla (consultándolo con su compañera) por considerar que no era adecuada para una niña tan pequeña, a pesar que las recomendaciones de los odontopediatras son muy claras en este sentido. En las redes sociales esta anécdota es recurrente. 
 
-Creo que por razones éticas debería prohibirse todo aquello que la literatura científica considere perjudicial para los niños. No obstante, he podido constatar cómo las empresas se las ingenian para sortear las prohibiciones. En Canadá hace ya más de 15 años que se prohibieron lo tacatás, pero sin embargo están permitidos otros aparatos como los saltadores, muy similares a los andadores y poco respetuosos con el desarrollo de los bebés. 
+Las madres también tenemos que estar alerta en los comercios, puesto que se comercializan todo tipo de artilugios que interfieren con el desarrollo de los bebés y que hasta pueden ser peligrosos. ¿Cómo puede ser, por ejemplo, que se siga permitiendo la venta de tacatás cuando las asociaciones de pediatría desaconsejan firmemente su uso? 
+¿Por qué encontramos en las tiendas mochilas colgonas para portear hacia delante si sabemos que no son ergonómicas y ningún fisioterapeuta las recomendaría?
 
-Esto me lleva a reflexionar sobre la importancia de informarnos y tomar decisiones conscientes.
+Creo que por razones éticas se debería prohibir todo aquello que la literatura científica considere perjudicial para los niños. Por el momento, las familias seguiremos estudiando y haciendo tribu para intentar criar a nuestros peques de la mejor manera posible.
+
+---
+
+Fotografía de @yanalya cortesía de <a href="https://www.freepik.es">Freepik</a>.

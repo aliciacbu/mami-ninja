@@ -4,4 +4,4 @@ slug: me
 template: page
 ---
 
-En breve.
+Como buena ninja mantengo mi identidad bajo un halo de misterio.

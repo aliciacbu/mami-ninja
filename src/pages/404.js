@@ -14,7 +14,7 @@ export default function FourOhFour() {
       <div className="container text-center">
         <header>
           <h1>404</h1>
-          <p className="subtitle">This was probably a mistake.</p>
+          <p className="subtitle">Esto seguramente ha sido un error.</p>
         </header>
       </div>
     </Layout>

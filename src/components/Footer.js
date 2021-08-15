@@ -6,18 +6,18 @@ export default function Footer() {
     <footer className="footer flex">
       <section className="container">
         <nav className="footer-links">
-          <Link to="/code">Code</Link>
-          <Link to="/jesus-freak">Jesus Freak</Link>
+          <Link to="/recursos">Recursos</Link>
+          <Link to="/reflexiones">Reflexiones</Link>
           <a
-            href="https://twitter.com/lavaldi"
+            href="https://instagram.com/mami.ninja.ig"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Twitter
+            Instagram
           </a>
           <Link to="/rss.xml">RSS</Link>
         </nav>
-        <nav className="flex justify-center">With ❤️</nav>
+        <nav className="flex justify-center">Con ❤️</nav>
       </section>
     </footer>
   )

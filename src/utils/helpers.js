@@ -6,7 +6,6 @@ export function getSimplifiedPosts(posts, options = {}) {
     tags: post.node.frontmatter.tags,
     title: post.node.frontmatter.title,
     banner: post.node.frontmatter.banner,
-    description: post.node.excerpt,
   }))
 }
 

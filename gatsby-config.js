@@ -5,9 +5,9 @@ module.exports = {
       name: 'Mami Ninja',
     },
     pathPrefix: '/',
-    siteUrl: 'https://lavaldi.com',
+    siteUrl: 'https://mami.ninja',
     description: 'Mamá en constante aprendizaje',
-    feedUrl: 'https://lavaldi.com/rss.xml',
+    feedUrl: 'https://mami.ninja/rss.xml',
     logo: 'https://lavaldi.com/logo.png',
   },
   plugins: [

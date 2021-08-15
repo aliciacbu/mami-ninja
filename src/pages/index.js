@@ -42,11 +42,8 @@ export default function BlogIndex({ data }) {
           <div className="copy">
             <h1>Hola!👋 Soy Mami Ninja!</h1>
             <p>
-              Soy una mamá en constante aprendizaje. En este blog comparto todo lo que voy 
-              aprendiendo así como reflexiones personales. You can read about{' '}
-              <Link to="/code">code</Link>, and{' '}
-              <Link to="/jesus-freak">christianity</Link>, or learn more{' '}
-              <Link to="/me">about me</Link>.
+              Soy una mamá en constante aprendizaje. En este blog comparto todo lo que voy{' '}
+              <Link to="/recursos">aprendiendo</Link> así como{' '} <Link to="/reflexiones">reflexiones personales</Link>.
             </p>
           </div>
 

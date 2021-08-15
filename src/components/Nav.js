@@ -59,8 +59,8 @@ export default function Nav() {
           </div>
           <div className="flex">
             <Link to="/me">About</Link>
-            <Link to="/code">Code</Link>
-            <Link to="/jesus-freak">Jesus Freak</Link>
+            <Link to="/recursos">Recursos</Link>
+            <Link to="/reflexiones">Reflexiones</Link>
             <button
               ref={darkModeButton}
               id="dark-mode-button"

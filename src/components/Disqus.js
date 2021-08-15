@@ -21,7 +21,7 @@ class Disqus extends Component {
   render() {
     const { postNode } = this.props
     const post = postNode.frontmatter
-    const url = urljoin('https://lavaldi.com', post.slug)
+    const url = urljoin('https://aliciacalvo.com', post.slug)
     const disqusConfig = {
       url,
       identifier: post.id,

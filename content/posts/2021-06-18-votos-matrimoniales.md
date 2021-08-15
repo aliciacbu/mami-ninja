@@ -1,6 +1,8 @@
 ---
 title: "Votos matrimoniales"
 date: 2021-06-18
+categories:
+  - Recursos
 template: post
 banner: "https://i.imgur.com/U9i4t1j.jpg"
 slug: "votos-matrimoniales"

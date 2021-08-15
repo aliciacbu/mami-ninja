@@ -2,7 +2,7 @@
 title: "6 maneras de mejorar tu matrimonio"
 date: 2021-05-18
 categories:
-  - JesusFreak
+  - Recursos
 tags:
   - matrimonio
   - Paul Tripp

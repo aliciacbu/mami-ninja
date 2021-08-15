@@ -2,7 +2,7 @@
 title: "Instalar gitk en macOS"
 date: 2021-06-29
 categories:
-  - Code
+  - Reflexiones
 tags:
   - gitk
   - git

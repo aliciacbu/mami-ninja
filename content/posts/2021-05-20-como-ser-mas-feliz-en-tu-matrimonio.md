@@ -2,7 +2,7 @@
 title: "Cómo ser más feliz en tu matrimonio"
 date: 2021-05-20
 categories:
-  - JesusFreak
+  - Recursos
 tags:
   - matrimonio
   - Paul Tripp

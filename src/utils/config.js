@@ -1,7 +1,7 @@
 export default {
-  siteTitle: 'Claudia Valdivieso',
-  siteUrl: 'https://lavaldi.com',
+  siteTitle: 'Mami Ninja',
+  siteUrl: 'https://mami.ninja',
   siteLogo: '/logo.png',
-  description: 'Christian, wife, mother and front end.',
-  userTwitter: 'lavaldi_',
+  description: 'Mamá en constanste aprendizaje.',
+  userTwitter: '',
 }

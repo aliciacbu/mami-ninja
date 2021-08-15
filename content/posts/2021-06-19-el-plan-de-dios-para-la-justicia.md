@@ -2,7 +2,7 @@
 title: "El plan de Dios para la justicia"
 date: 2021-06-19
 categories:
-  - JesusFreak
+  - Recursos
 tags:
   - oración
   - política

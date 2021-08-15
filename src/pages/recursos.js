@@ -9,25 +9,23 @@ import SEO from '../components/SEO'
 import { getSimplifiedPosts } from '../utils/helpers'
 import config from '../utils/config'
 
-export default function BlogIndex({ data }) {
+export default function BlogIndex({ data, ...props }) {
   const posts = data.allMarkdownRemark.edges
   const simplifiedPosts = useMemo(() => getSimplifiedPosts(posts), [posts])
 
   return (
     <Layout>
-      <Helmet title={`Jesus Freak | ${config.siteTitle}`} />
-      <SEO customDescription="About Jesus" />
+      <Helmet title={`Recursos | ${config.siteTitle}`} />
+      <SEO customDescription="Articles, tutorials and more" />
       <header>
         <div className="container text-center">
-          <h1>Jesus Freak</h1>
-          <p className="subtitle">About Jesus</p>
+          <h1>Recursos</h1>
+          <p className="subtitle">Artículos, bibliografía y recomendaciones</p>
         </div>
       </header>
       <section>
-        <div className="guides-section">
-          <div className="container">
-            <Posts data={simplifiedPosts} showYears withDate narrow />
-          </div>
+        <div className="container">
+          <Posts data={simplifiedPosts} showYears withDate narrow />
         </div>
       </section>
     </Layout>
@@ -35,26 +33,24 @@ export default function BlogIndex({ data }) {
 }
 
 export const pageQuery = graphql`
-  query JesusFreakQuery {
+  query CodeQuery {
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
       filter: {
-        frontmatter: { categories: { in: "JesusFreak" } }
+        frontmatter: { categories: { in: "Recursos" } }
         isFuture: { eq: false }
       }
     ) {
       edges {
         node {
           id
-          excerpt
           fields {
             slug
           }
           frontmatter {
-            title
             date(formatString: "MMMM DD, YYYY")
-            description
-            banner
+            title
+            tags
           }
         }
       }

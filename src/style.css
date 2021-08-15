@@ -2,7 +2,12 @@
 
 /* Global variables */
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+/*Claudia Valdivieso Fonts 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');*/
+
+/* Tania Racia fonts */
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap');
 
 :root {
   --font-color: #495057;
@@ -20,6 +25,10 @@
   --blockquote: #edf2ff;
   --transparent-text: rgba(0, 0, 0, 0.7);
   --transparent-bg: rgba(0, 0, 0, 0.15);
+  --font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Helvetica Neue',
+  'Roboto', Roboto, Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji',
+  'Segoe UI', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  --heading-font-family: 'DM Mono', Menlo, monospace;
   --code-font-family: Menlo, 'Roboto Mono', Courier New, monospace;
 }
 
@@ -34,9 +43,7 @@
 /* Scaffolding */
 
 html {
-  font-family: 'Roboto Mono', -apple-system, BlinkMacSystemFont, 'Helvetica Neue',
-    Roboto, Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI',
-    'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  font-family: var(--font-family);
   color: var(--font-color);
   font-weight: 400;
   font-size: 1rem;
@@ -265,14 +272,20 @@ h4:not(:first-child) {
 }
 
 h1 {
-  font-size: 2.5rem;
+  font-size: 1.7rem;
   line-height: 1.1;
+  font-family: var(--heading-font-family);
+  letter-spacing: -0.15rem;
+  -webkit-font-smoothing: subpixel-antialiased;
 }
 
 h2 {
-  font-size: 1.75rem;
+  font-size: 1.6rem;
   padding-bottom: 0.5rem;
-  border-bottom: 1px solid var(--border);
+  border-bottom: 3px solid var(--border-color);
+  font-family: var(--heading-font-family);
+  letter-spacing: -0.1rem;
+  -webkit-font-smoothing: subpixel-antialiased;
 }
 
 h2 code {

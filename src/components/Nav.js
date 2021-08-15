@@ -54,7 +54,7 @@ export default function Nav() {
               <span className="emoji">
                 <img src={lavaldiIcon} height="30" width="30" alt="La Valdi" />
               </span>{' '}
-              <span className="name">Claudia Valdivieso</span>
+              <span className="name">Mami Ninja</span>
             </Link>
           </div>
           <div className="flex">

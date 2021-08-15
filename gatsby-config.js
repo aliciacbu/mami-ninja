@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: 'Claudia Valdivieso',
+    title: 'Mami Ninja',
     author: {
-      name: 'Claudia Valdivieso',
+      name: 'Mami Ninja',
     },
     pathPrefix: '/',
     siteUrl: 'https://lavaldi.com',
-    description: 'Christian, wife, mother and front end.',
+    description: 'Mamá en constante aprendizaje',
     feedUrl: 'https://lavaldi.com/rss.xml',
     logo: 'https://lavaldi.com/logo.png',
   },
@@ -19,9 +19,9 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'Claudia Valdivieso',
-        short_name: 'Claudia Valdivieso',
-        description: 'Christian, wife, mother and front end.',
+        name: 'Mami Ninja',
+        short_name: 'Mami Ninja',
+        description: 'Mamá en constante aprendizaje.',
         start_url: '/',
         background_color: 'white',
         theme_color: '#eb374b',
@@ -85,7 +85,7 @@ module.exports = {
               }
             `,
             output: '/rss.xml',
-            title: 'Claudia Valdivieso | RSS Feed',
+            title: 'Mami Ninja | RSS Feed',
           },
         ],
       },
@@ -207,7 +207,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
-        siteUrl: 'https://lavaldi.com',
+        siteUrl: 'https://mami.ninja',
       },
     },
   ],

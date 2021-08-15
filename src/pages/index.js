@@ -13,6 +13,7 @@ import config from '../utils/config'
 import projects from '../data/projects'
 
 import lavaldi from '../../content/images/lavaldi.jpg'
+import ninja from '../../content/images/ninja.png'
 
 export default function BlogIndex({ data }) {
   const latest = data.latest.edges
@@ -24,7 +25,7 @@ export default function BlogIndex({ data }) {
         {title}
         {button && (
           <Link className="section-button" to="/blog">
-            View all
+            Ver todas
           </Link>
         )}
       </h2>
@@ -39,10 +40,10 @@ export default function BlogIndex({ data }) {
       <section className="lead">
         <div className="container">
           <div className="copy">
-            <h1>Hey! I'm Claudia Valdivieso.</h1>
+            <h1>Hola!👋 Soy Mami Ninja!</h1>
             <p>
-              I'm christian, wife, mother and a software engineer, and sometimes
-              I write about christianity and programming. You can read about{' '}
+              Soy una mamá en constante aprendizaje. En este blog comparto todo lo que voy 
+              aprendiendo así como reflexiones personales. You can read about{' '}
               <Link to="/code">code</Link>, and{' '}
               <Link to="/jesus-freak">christianity</Link>, or learn more{' '}
               <Link to="/me">about me</Link>.
@@ -50,16 +51,13 @@ export default function BlogIndex({ data }) {
           </div>
 
           <div className="image">
-            <img src={lavaldi} alt="Claudia Valdivieso" />
+            <img src={ninja} alt="Mami Ninja" />
           </div>
         </div>
       </section>
       <div className="container index">
-        <Section title="Latest Articles" button>
+        <Section title="Últimas entradas" button>
           <Posts data={simplifiedLatest} tags withDate />
-        </Section>
-        <Section title="Projects">
-          <Projects data={projects} />
         </Section>
       </div>
     </Layout>

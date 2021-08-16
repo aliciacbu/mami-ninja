@@ -2,6 +2,7 @@ require("dotenv").config({
   path: `.env`,
 });
 module.exports = {
+  pathPrefix: "/mami-ninja",
   siteMetadata: {
     title: 'Mami Ninja',
     author: {
@@ -204,7 +205,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-disqus',
       options: {
-        shortname: 'lavaldi',
+        shortname: 'mami-ninja',
       },
     },
     {

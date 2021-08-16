@@ -58,7 +58,6 @@ export default function Nav() {
             </Link>
           </div>
           <div className="flex">
-            <Link to="/me">About</Link>
             <Link to="/recursos">Recursos</Link>
             <Link to="/reflexiones">Reflexiones</Link>
             <button

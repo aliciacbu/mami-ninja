@@ -61,3 +61,6 @@ banner.png
 
 # Bundle stats
 bundle-stats.json
+
+# ENV
+.env

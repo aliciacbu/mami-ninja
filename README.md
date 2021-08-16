@@ -1,8 +1,8 @@
-# lavaldi.com
+# mami.ninja
 
 Personal website. Now running on Gatsby, React, and Node.js.
 
-Theme by [Tania Rascia](https://github.com/taniarascia/taniarascia.com)
+Theme [Claudia Valdivieso](https://github.com/lavaldi/lavaldi.github.com) based on [Tania Rascia](https://github.com/taniarascia/taniarascia.com) theme's
 
 ## Development
 

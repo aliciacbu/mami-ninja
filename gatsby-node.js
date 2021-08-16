@@ -91,7 +91,7 @@ async function createPageCover(title, slug) {
   context.fillText('lavaldi.com', 650, 530)
   // Load avatar and add it to the image
   const image = await loadImage(
-    require.resolve(`./content/images/lavaldi-icon.png`)
+    require.resolve(`./content/images/ninja-icon.png`)
   )
   context.drawImage(image, 420, 515, 70, 70)
   // Write image to file

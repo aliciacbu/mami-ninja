@@ -28,7 +28,7 @@ export default function Search({ posts, location, navigate }) {
       <input
         id="search"
         type="search"
-        placeholder="Search for anything..."
+        placeholder="Busca entre todas las entradas..."
         value={query}
         onChange={(e) => {
           navigate(e.target.value ? `/blog/?search=${e.target.value}` : '')
@@ -40,7 +40,7 @@ export default function Search({ posts, location, navigate }) {
           results.length > 0 ? (
             <Posts data={results} withDate narrow />
           ) : (
-            <p>Sorry, nothing matched that search.</p>
+            <p>Ups! No se ha encontrado nada con esta búsqueda.</p>
           )
         ) : (
           <Posts data={posts} showYears withDate narrow />

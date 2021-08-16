@@ -1,6 +1,6 @@
 import React, { useCallback, useEffect, useRef } from 'react'
 import { Link } from 'gatsby'
-import lavaldiIcon from '../../content/images/lavaldi-icon.png'
+import lavaldiIcon from '../../content/images/ninja-icon.png'
 
 export default function Nav() {
   const darkModeButton = useRef()
@@ -54,13 +54,13 @@ export default function Nav() {
               <span className="emoji">
                 <img src={lavaldiIcon} height="30" width="30" alt="La Valdi" />
               </span>{' '}
-              <span className="name">Claudia Valdivieso</span>
+              <span className="name">Mami Ninja</span>
             </Link>
           </div>
           <div className="flex">
             <Link to="/me">About</Link>
-            <Link to="/code">Code</Link>
-            <Link to="/jesus-freak">Jesus Freak</Link>
+            <Link to="/recursos">Recursos</Link>
+            <Link to="/reflexiones">Reflexiones</Link>
             <button
               ref={darkModeButton}
               id="dark-mode-button"

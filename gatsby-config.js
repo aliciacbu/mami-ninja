@@ -1,14 +1,17 @@
+require("dotenv").config({
+  path: `.env`,
+});
 module.exports = {
   siteMetadata: {
-    title: 'Claudia Valdivieso',
+    title: 'Mami Ninja',
     author: {
-      name: 'Claudia Valdivieso',
+      name: 'Mami Ninja',
     },
     pathPrefix: '/',
-    siteUrl: 'https://lavaldi.com',
-    description: 'Christian, wife, mother and front end.',
-    feedUrl: 'https://lavaldi.com/rss.xml',
-    logo: 'https://lavaldi.com/logo.png',
+    siteUrl: 'https://mami.ninja',
+    description: 'Mamá en constante aprendizaje',
+    feedUrl: 'https://mami.ninja/rss.xml',
+    logo: 'https://mami.ninja/logo.png',
   },
   plugins: [
     // ===================================================================================
@@ -19,9 +22,9 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'Claudia Valdivieso',
-        short_name: 'Claudia Valdivieso',
-        description: 'Christian, wife, mother and front end.',
+        name: 'Mami Ninja',
+        short_name: 'Mami Ninja',
+        description: 'Mamá en constante aprendizaje.',
         start_url: '/',
         background_color: 'white',
         theme_color: '#eb374b',
@@ -85,7 +88,7 @@ module.exports = {
               }
             `,
             output: '/rss.xml',
-            title: 'Claudia Valdivieso | RSS Feed',
+            title: 'Mami Ninja | RSS Feed',
           },
         ],
       },
@@ -207,7 +210,15 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
-        siteUrl: 'https://lavaldi.com',
+        siteUrl: 'https://mami.ninja',
+      },
+    },
+    {
+      resolve: `gatsby-source-contentful`,
+      options: {
+        spaceId: '8r3jro1kxtjm',
+        // Learn about environment variables: https://gatsby.dev/env-vars
+        accessToken: process.env.CONTENTFUL_ACCESS_TOKEN,
       },
     },
   ],

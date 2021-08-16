@@ -6,13 +6,13 @@ export default function Suggested({ previous, next }) {
     <nav className="flex container suggested">
       {previous && (
         <Link to={previous.fields.slug} rel="prev">
-          <span>Previous</span>
+          <span>Anterior</span>
           {previous.frontmatter.title}
         </Link>
       )}
       {next && (
         <Link to={next.fields.slug} rel="next">
-          <span>Next</span>
+          <span>Siguiente</span>
           {next.frontmatter.title}
         </Link>
       )}

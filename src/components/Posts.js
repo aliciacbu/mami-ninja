@@ -15,7 +15,7 @@ const Cell = ({ node, tags, withDate }) => {
   return (
     <div className={`row ${!withDate ? 'narrow' : ''}`} key={node.id}>
       <Link to={node.slug} className="cell">
-        {isNew && <div className="new-post">New!</div>}
+        {isNew && <div className="new-post">Nueva!</div>}
         <div>
           {withDate && <time>{node.date}</time>}
           <div>{node.title}</div>

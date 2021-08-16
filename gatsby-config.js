@@ -8,7 +8,7 @@ module.exports = {
     siteUrl: 'https://mami.ninja',
     description: 'Mamá en constante aprendizaje',
     feedUrl: 'https://mami.ninja/rss.xml',
-    logo: 'https://lavaldi.com/logo.png',
+    logo: 'https://mami.ninja/logo.png',
   },
   plugins: [
     // ===================================================================================
@@ -208,6 +208,14 @@ module.exports = {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
         siteUrl: 'https://mami.ninja',
+      },
+    },
+    {
+      resolve: `gatsby-source-contentful`,
+      options: {
+        spaceId: `8r3jro1kxtjm`,
+        // Learn about environment variables: https://gatsby.dev/env-vars
+        accessToken: process.env.CONTENTFUL_ACCESS_TOKEN,
       },
     },
   ],

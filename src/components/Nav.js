@@ -1,6 +1,6 @@
 import React, { useCallback, useEffect, useRef } from 'react'
 import { Link } from 'gatsby'
-import lavaldiIcon from '../../content/images/lavaldi-icon.png'
+import lavaldiIcon from '../../content/images/ninja-icon.png'
 
 export default function Nav() {
   const darkModeButton = useRef()

@@ -12,7 +12,6 @@ import config from '../utils/config'
 
 import projects from '../data/projects'
 
-import lavaldi from '../../content/images/lavaldi.jpg'
 import ninja from '../../content/images/ninja.png'
 
 export default function BlogIndex({ data }) {

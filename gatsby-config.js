@@ -1,3 +1,6 @@
+require("dotenv").config({
+  path: `.env`,
+});
 module.exports = {
   siteMetadata: {
     title: 'Mami Ninja',
@@ -213,7 +216,7 @@ module.exports = {
     {
       resolve: `gatsby-source-contentful`,
       options: {
-        spaceId: `8r3jro1kxtjm`,
+        spaceId: '8r3jro1kxtjm',
         // Learn about environment variables: https://gatsby.dev/env-vars
         accessToken: process.env.CONTENTFUL_ACCESS_TOKEN,
       },

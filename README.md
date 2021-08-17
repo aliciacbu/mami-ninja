@@ -1,6 +1,6 @@
 # mami.ninja
 
-Maternity blog. Now running on Gatsby, React, and Node.js.
+Maternity blog. Running on Gatsby, React, and Node.js.
 
 Theme by [Claudia Valdivieso](https://github.com/lavaldi/lavaldi.github.com) based on [Tania Rascia](https://github.com/taniarascia/taniarascia.com) theme's
 

@@ -14,4 +14,3 @@ jobs:
         with:
           access-token: ${{ secrets.GATSBY_DEPLOY }}
           access-token: ${{ secrets.CONTENTFUL_ACCESS_TOKEN }}
-          skip-publish: true

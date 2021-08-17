@@ -88,7 +88,7 @@ async function createPageCover(title, slug) {
   // Add website url to the bottom of the image
   context.fillStyle = COLOR.main
   context.font = 'bold 30pt Fira Code'
-  context.fillText('lavaldi.com', 650, 530)
+  context.fillText('mami.ninja', 650, 530)
   // Load avatar and add it to the image
   const image = await loadImage(
     require.resolve(`./content/images/ninja-icon.png`)

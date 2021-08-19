@@ -33,7 +33,7 @@ export default function BlogIndex({ data, ...props }) {
 }
 
 export const pageQuery = graphql`
-  query CodeQuery {
+  query Recursos {
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
       filter: {

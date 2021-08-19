@@ -35,7 +35,7 @@ export default function BlogIndex({ data }) {
 }
 
 export const pageQuery = graphql`
-  query JesusFreakQuery {
+  query Reflexiones {
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
       filter: {

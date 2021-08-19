@@ -39,6 +39,7 @@ export const pageQuery = graphql`
       filter: {
         frontmatter: { categories: { in: "Recursos" } }
         isFuture: { eq: false }
+        fields: { draft: { eq: false } }
       }
     ) {
       edges {

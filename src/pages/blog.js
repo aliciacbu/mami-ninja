@@ -38,6 +38,7 @@ export const pageQuery = graphql`
       filter: {
         frontmatter: { template: { eq: "post" } }
         isFuture: { eq: false }
+        fields: { draft: { eq: false } }
       }
     ) {
       edges {

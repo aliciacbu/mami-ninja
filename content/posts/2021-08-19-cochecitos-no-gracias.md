@@ -10,7 +10,7 @@ tags:
 template: post
 banner: ""
 slug: "cochecitos-no-gracias"
-draft: true
+draft: false
 ---
 
 Una de las pocas cosas que tenía claras en el embarazo era que no compraría un cochecito. Me parecía un trasto aparatoso, demasiado grande para nuestro piso, incómodo y poco práctico. Además, solo de pensar en tener que leer comparativas de modelos me entraba una pereza tremenda. En cambio, los fulares me parecían cómodos, bonitos y prácticos. Esta decisión fue poco comprendida en mi familia pero yo trampeé la situación explicando que siempre se está a tiempo de comprar un cochecito, que no era imprescindible adelantarse a la necesidad y que en todo caso cuando el bebé fuera un poco más mayor se podría valorar la compra de una sillita de paseo.
@@ -31,6 +31,8 @@ Después de haber experimentado el uso de portabebés, creo que es un artilugio 
 - Cuando el bebé interactúa con el entorno puedes irle explicando todo lo que ve
 - Al tener una visión más elevada el bebé sociabiliza más con las personas del entorno
 
+![Fular](https://i.imgur.com/u5C1nUy.jpg)
+
 Recientemente he visto recién nacidos llorando en sus cochecitos y a sus padres un tanto desesperados meciéndolos para adelante y para atrás sin aparente resultado. ¡Ay! Creo que no nos advierten lo suficiente de la necesidad tan brutal de contacto que necesitan y de la demanda de alimento constante de un recién nacido. Luego está la otra estampa, mucho más habitual, que es ver a padres y madres pasear un carrito vacío (o repleto de bolsas de la compra) y llevar al bebé en una mochila o en brazos. Estas dos escenas me hacen reflexionar sobre para quién estamos comprando los cochecitos, ¿para la comodidad de los padres o de las criaturas?
 
 ## Los cochecitos en un mundo sedentario
@@ -41,7 +43,7 @@ En último lugar, tengo que decir que nadie niega que es muy cómodo no tener qu
 >
 > <cite>Pasaje de: Katy Bowman. “Grow Wild”</cite>
 
-La autora también reflexiona sobre los carritos de la compra que es tan habitual ver en los supermercados. Y es que, ahora que hemos dejado de ir en coche para hacer la compra, yo misma me estaba planteando comprar un cómodo carrito para no tener que cargar las cosas pesadas. Sin embargo, después de leer a Katy me di cuenta de que sería evitar un ejercicio positivo para el cuerpo. ¿Por qué no cargar la compra en un mochila a la espalda? Si el peso resulta excesivo, podríamos dividir las compras en varios trayectos. De esta manera, además, caminaremos más y seremos un pelín menos sedentarios. Buscar formas de movernos más cada día es fundamental para contrarrestar nuestro sedentarismo.
+La autora también reflexiona sobre los carritos de la compra que es tan habitual ver en los supermercados. Y es que, ahora que hemos dejado de ir en coche para hacer la compra, yo misma me estaba planteando comprar un cómodo carrito para no tener que cargar las cosas pesadas. Sin embargo, después de leer a Katy Bowman me di cuenta de que sería evitar un ejercicio positivo para el cuerpo. ¿Por qué no cargar la compra en un mochila a la espalda? Si el peso resulta excesivo, podríamos dividir las compras en varios trayectos. De esta manera, además, caminaremos más y seremos un pelín menos sedentarios. Buscar formas de movernos más cada día es fundamental para contrarrestar nuestro sedentarismo.
 
 
 Seguramente la mayoría de personas optan por tener en cuenta las necesidades uno mismo sin dejar de lado las del bebé y es por esto que cada vez son más las  familias que portean sin renunciar al cochecito. Lo que me gustaría que nos planteásemos  aquí es: ¿realmente nos hacen bien los carritos? ¿Qué necesidades nos están cubriendo? ¿Y al bebé?

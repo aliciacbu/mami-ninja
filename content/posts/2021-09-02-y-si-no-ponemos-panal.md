@@ -9,6 +9,7 @@ tags:
 template: post
 banner: ""
 slug: "y-si-no-ponemos-panal"
+draft: false
 ---
 
 La primera vez que leí sobre el método sin pañal, *comunicación de la eliminación* o higiene natural me fascinó. Recuerdo que ya había tomado la decisión de usar pañales de tela por conciencia medioambiental y por parecerme más respetuosos con la piel del bebé pero descubrir que había familias que decidían prescindir del pañal desde el inicio me dejó absolutamente fascinada. De repente, todo tenía sentido. 🤯

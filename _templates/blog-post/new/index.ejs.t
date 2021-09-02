@@ -12,6 +12,7 @@ tags:
 template: post
 banner: ""
 slug: "<%= h.slugify(title) %>"
+draft: true
 ---
 
 The Post starts here

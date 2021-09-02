@@ -87,7 +87,7 @@ if (text) {
 
   context.fillStyle = COLOR.main
   context.font = 'bold 30pt Fira Code'
-  context.fillText('lavaldi.com', 650, 530)
+  context.fillText('mami.ninja', 650, 530)
 
   loadImage('./content/images/favicon.png').then((image) => {
     context.drawImage(image, 420, 515, 70, 70)

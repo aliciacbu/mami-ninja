@@ -4,7 +4,8 @@ date: 2021-10-02
 categories:
   - Reflexiones
 tags:
-  - peluches, objetos de apego
+  - peluches
+  - objetos de apego
 template: post
 banner: ""
 slug: "peluches-apego"
